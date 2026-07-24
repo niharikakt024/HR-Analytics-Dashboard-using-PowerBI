@@ -86,8 +86,8 @@ HR-Analytics-Dashboard-using-PowerBI/
 
 ---
 
-👨‍💻 Author
-Niharika K T
+##👨‍💻 Author
+##Niharika K T
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python | Data Visualization
 

@@ -16,12 +16,12 @@ Headline workforce metrics — total employees, gender split, leavers, and promo
 ### 2. KPIs — Hiring, Promotions & Turnover
 Deep dive into **Hiring** (gender split by job level), **Promotions in 2021** (by job level and gender, with % female promoters and average time in grade), and **Turnover Rate** (FY20 leavers by job level and gender).
 
-![KPI Hiring, Promotions, Turnover](KPI's1.png)
+![KPI Hiring, Promotions, Turnover](KPI's 1.png)
 
 ### 3. KPIs — Performance, Executive Balance & Age Group
 Covers **Performance Rating** by gender and rating band, **Executive Gender Balance** (executive split, hires, and promotions to executive), and **Age Group** distribution of employees and post-promotion job levels.
 
-![KPI Performance, Executive Balance, Age Group](KPI's2.png)
+![KPI Performance, Executive Balance, Age Group](KPI's 2.png)
 
 ---
 

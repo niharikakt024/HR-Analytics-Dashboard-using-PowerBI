@@ -54,7 +54,7 @@ Covers **Performance Rating** by gender and rating band, **Executive Gender Bala
 HR-Analytics-Dashboard-using-PowerBI/
 │
 ├── HR Analytics Dashboard.pbix          # Power BI dashboard file
-├── Dataset.xlsx                   # Source data files (if included)
+├── Dataset.xlsx                   # Source data files 
 ├── Dashboard.png            # Dashboard preview images
 ├── KPI's 1.png
 ├── KPI's 2.png
